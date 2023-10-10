@@ -1,0 +1,60 @@
+.form-sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  
+}
+
+.titulo {
+  display: flex;
+  text-align: center;
+  padding-left: 390PX;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  color: whitesmoke;
+}
+
+.label {
+  color: rgb(255, 255, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+  font-size: small;
+  
+}
+
+.input{
+  opacity: 40%;
+  width: 310px;
+  height: 30px;
+}
+
+.botao-enviar {
+  color: whitesmoke;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  width: 110%;
+  height: 60px;
+  
+}
+
+#body {
+  background-color: rgb(31, 30, 30);
+}
+
+#span-titulo {
+  color: rgb(43, 97, 197);
+}
+
+#cabecalho {
+  background-color: grey;
+}
+
+#copyright {
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: whitesmoke;
+  opacity: 20%;
+  font-size: xx-small;
+
+}
